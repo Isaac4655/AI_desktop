@@ -1,0 +1,10 @@
+{
+  "goal": "open Firefox",
+  "step": 1,
+  "action": "double_click",
+  "target": "Firefox icon",
+  "target_x": 64,
+  "target_y": 400,
+  "reason": "Firefox icon is visible on the desktop. Double-clicking it will launch the browser.",
+  "is_complete": false
+}

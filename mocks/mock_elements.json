@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-01-01T12:00:00Z",
+  "elements": [
+    {"label": "Firefox icon", "x": 64, "y": 400, "type": "icon", "confidence": 0.95},
+    {"label": "Terminal icon", "x": 64, "y": 450, "type": "icon", "confidence": 0.92},
+    {"label": "Files icon", "x": 64, "y": 500, "type": "icon", "confidence": 0.91},
+    {"label": "Taskbar", "x": 640, "y": 790, "type": "bar", "confidence": 1.0}
+  ]
+}
