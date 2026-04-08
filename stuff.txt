@@ -1,0 +1,1 @@
+https://civitai.com/api/auth/callback/email?callbackUrl=https%3A%2F%2Fcivitai.com%2F&token=01a17b40cb59fc0dd9fe97cc1e2928ecc721158ee04cbe30229d404ce3966138&email=isaac.jac3168%40outlook.com
